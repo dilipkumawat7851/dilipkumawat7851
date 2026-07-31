@@ -1,43 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Dilip%20Kumawat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20·%20Cloud%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Automating+infrastructure%2C+one+pipeline+at+a+time;AWS+%7C+Docker+%7C+Linux+%7C+Web+Dev;Always+shipping.+Always+learning." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:16a34a&height=220&section=header&text=Hi%20There,%20I'm%20Dilip%20Kumawat%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=8b5cf6&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdilipkumawat7851%2Fprofile&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/dilipkumawat7851?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="followers"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-8b5cf6?style=for-the-badge" alt="open to internships"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+Cloud+%26+Automation;Full+Stack+Developer;Building%2C+Shipping+%26+Scaling+with+AWS+%2B+Docker;Clean+Code.+Reliable+Systems.+Always+Learning." alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/dilip-kumawat78/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/dilip______78">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:dilipkumawat785188@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```yaml
-dilip:
-  name: "Dilip Kumawat"
-  role: "DevOps Engineer & Web Developer"
-  focus: ["AWS Cloud", "Linux", "Docker", "Web Development"]
-  currently_learning: "Kubernetes & CI/CD pipelines"
-  location: "India"
-  fun_fact: "I automate things so future-me has less to do 🚀"
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+- 🔧 **DevOps Engineer** & **Full Stack Developer**, focused on building reliable, automated, and scalable systems.
+- ☁️ Comfortable across the stack — from writing clean frontend code to deploying and monitoring production infrastructure.
+- 🐳 I love containerizing everything and automating the boring stuff with CI/CD.
+- 🌱 Currently sharpening skills in Cloud Architecture & Infrastructure as Code.
+- ⚡ Fun fact: I enjoy solving problems in **C/C++** as much as shipping features in production.
+- 📫 Reach me at **dilipkumawat785188@gmail.com**
 
 <br/>
 
@@ -45,11 +37,20 @@ dilip:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,githubactions,nginx&theme=dark" />
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,bash,nginx" /><br/>
 
-<br/><br/>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts" /><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vscode&theme=dark" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /><br/>
+
+### 🗄️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,postgres" /><br/>
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vim,githubactions" />
 
 </div>
 
@@ -59,50 +60,57 @@ dilip:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dilipkumawat7851&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkumawat7851&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api?username=dilipkumawat78&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipkumawat78&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkumawat78&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%" />
+
+</div>
+
+> ⚠️ **Note:** Replace `dilipkumawat78` above with your exact GitHub username if it's different, so the stats cards pull your real data.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipkumawat7851&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak stats" />
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilipkumawat78&repo=your-repo-1&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilipkumawat78&repo=your-repo-2&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+</a>
+
+</div>
+
+> ✏️ Replace `your-repo-1` / `your-repo-2` with the actual repo names you want to pin here.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilipkumawat7851&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff" width="90%" />
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilipkumawat78&theme=react-dark&hide_border=true&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff" width="100%"/>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Dilip%20Kumawat-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilip-kumawat78/)
+[![Instagram](https://img.shields.io/badge/-dilip______78-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dilip______78)
+[![Gmail](https://img.shields.io/badge/-dilipkumawat785188@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dilipkumawat785188@gmail.com)
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/dilipkumawat7851/dilipkumawat7851/output/github-contribution-grid-snake.svg" width="90%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:0f172a&height=120&section=footer"/>
 
-> ⚙️ This animated snake needs a one-time GitHub Actions setup — instructions below.
+**⭐ Thanks for visiting my profile! Let's build something great together.**
 
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://your-portfolio-link.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:your-email@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
 </div>
