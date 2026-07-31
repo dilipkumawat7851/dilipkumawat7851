@@ -72,11 +72,11 @@
 
 <div align="center">
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilipkumawat7851&repo=your-repo-1&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+<a href="https://github.com/dilipkumawat7851/my_portfolio">
+
 </a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilipkumawat7851&repo=your-repo-2&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+<a href="https://github.com/dilipkumawat7851/html-vision">
+ 
 </a>
 
 </div>
