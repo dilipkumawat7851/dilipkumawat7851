@@ -81,7 +81,7 @@
 
 </div>
 
-> ✏️ Replace `your-repo-1` / `your-repo-2` with the actual repo names you want to pin here.
+> ✏️ Replace my_portfolio / html-vision with the actual repo names you want to pin here.
 
 <br/>
 
