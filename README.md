@@ -67,7 +67,7 @@
 
 </div>
 
-> ⚠️ **Note:** Replace `dilipkumawat78` above with your exact GitHub username if it's different, so the stats cards pull your real data.
+> ⚠️ **Note:** Replace `dilipkumawat7851` above with your exact GitHub username if it's different, so the stats cards pull your real data.
 
 <br/>
 
