@@ -73,10 +73,14 @@
 <div align="center">
 
 <a href="https://github.com/dilipkumawat7851/my_portfolio">
-My portfolio
+  <img src="https://img.shields.io/badge/My_Portfolio-Personal%20Portfolio-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/dilipkumawat7851/html-vision">
-My vision
+
+<a href="https://github.com/dilipkumawat7851/Self-tracker">
+  <img src="https://img.shields.io/badge/Self--Tracker-Productivity%20App-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
  
 </a>
 
