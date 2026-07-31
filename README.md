@@ -46,9 +46,6 @@
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /><br/>
 
-### 🗄️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,postgres" /><br/>
-
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vim,githubactions" />
 
@@ -60,10 +57,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dilipkumawat78&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipkumawat78&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dilipkumawat7851&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipkumawat7851&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkumawat78&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkumawat7851&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%" />
 
 </div>
 
@@ -76,10 +73,10 @@
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilipkumawat78&repo=your-repo-1&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilipkumawat7851&repo=your-repo-1&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilipkumawat78&repo=your-repo-2&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilipkumawat7851&repo=your-repo-2&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
 </a>
 
 </div>
@@ -91,7 +88,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilipkumawat78&theme=react-dark&hide_border=true&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilipkumawat7851&theme=react-dark&hide_border=true&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff" width="100%"/>
 </div>
 
 <br/>
