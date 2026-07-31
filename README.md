@@ -64,7 +64,7 @@
 
 </div>
 
-> ⚠️ **Note:** Replace `dilipkumawat7851` above with your exact GitHub username if it's different, so the stats cards pull your real data.
+
 
 <br/>
 
@@ -73,17 +73,18 @@
 <div align="center">
 
 <a href="https://github.com/dilipkumawat7851/my_portfolio">
-
+My portfolio
 </a>
 <a href="https://github.com/dilipkumawat7851/html-vision">
+My vision
  
 </a>
 
-</div>
 
-> ✏️ Replace my_portfolio / html-vision with the actual repo names you want to pin here.
 
-<br/>
+
+
+
 
 ## 📈 Contribution Graph
 
