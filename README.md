@@ -58,13 +58,11 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dilipkumawat7851&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipkumawat7851&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=dilipkumawat7851&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkumawat7851&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E&text_color=c9d1d9&bg_color=0d1117" width="45%" />
 
 </div>
-
-
 
 <br/>
 
@@ -81,14 +79,6 @@
 </a>
 
 </div>
- 
-</a>
-
-
-
-
-
-
 
 ## 📈 Contribution Graph
 
